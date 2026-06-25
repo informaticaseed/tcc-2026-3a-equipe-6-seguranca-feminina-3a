@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — [Equipe 06]
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -7,18 +7,18 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| (Nicolle) | @nicolletrindade563 | 3A |
+| (Maria) | @xMariaEduardax | 3A |
+| (Rudá) | @username | 3A |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Plataforma de segurança feminina para envio rápido de alertas de emergência e compartilhamento de informações em situações de risco.
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O VivaSafe é uma plataforma desenvolvida para aumentar a segurança das mulheres em situações de vulnerabilidade. O sistema permite que usuárias cadastrem informações importantes e acionem rapidamente alertas de emergência, compartilhando sua localização e dados relevantes com contatos de confiança. A solução busca oferecer mais proteção, agilidade e sensação de segurança no dia a dia.
 
 ---
 
