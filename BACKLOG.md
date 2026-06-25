@@ -1,7 +1,7 @@
 # Backlog do MVP — [Nome do Grupo]
 
 > Este arquivo é o resumo fixo do projeto.
-> O backlog semanal vivo fica nas **Issues** do repositório.
+> O backlog semanal vivo fica nas **Issues** do repositório
 > Acesse: github.com/informaticaseed/[repo]/issues
 
 ---
