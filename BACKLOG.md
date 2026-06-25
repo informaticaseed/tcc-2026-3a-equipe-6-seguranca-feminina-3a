@@ -8,7 +8,7 @@
 
 ## 🎯 Objetivo do MVP
 
-(Descreva em 2-3 frases o que o MVP precisa entregar)
+O VivaSafe é uma plataforma voltada para a segurança feminina. O MVP tem como objetivo permitir o cadastro de usuárias, o envio rápido de alertas de emergência e o compartilhamento de informações importantes em situações de risco, oferecendo uma solução acessível e prática para aumentar a proteção das mulheres.
 
 ---
 
@@ -16,12 +16,12 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
-| 3 | (escreva aqui) | Alta | ⏳ A fazer |
-| 4 | (escreva aqui) | Média | ⏳ A fazer |
-| 5 | (escreva aqui) | Média | ⏳ A fazer |
-| 6 | (escreva aqui) | Baixa | ⏳ A fazer |
+| 1 | (Cadastro e login de usuárias) | Alta | ✅ Feito |
+| 2 | (Botão de emergência para envio de alerta) | Alta | ⏳ A fazer |
+| 3 | (Compartilhamento de localização em situação de risco) | Alta | ⏳ A fazer |
+| 4 | (Página "Conheça o Projeto" com informações sobre o VivaSafe) | Média |✅ Feito |
+| 5 | (Integração com banco de dados para armazenar informações das usuárias) | Média | 🔄 Fazendo |
+| 6 | (Protótipo do chaveiro inteligente integrado ao sistema) | Baixa | ⏳ A fazer |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
@@ -29,8 +29,10 @@
 
 ## 🚫 Fora do escopo (não entra no MVP)
 
-- (o que vocês decidiram não fazer)
-- (o que ficou para depois)
+-Aplicativo móvel completo para Android e iOS.
+-Integração com órgãos públicos e forças de segurança.
+-avançado de inteligência artificial para análise de risco.
+-Comercialização e produção em larga escala do chaveiro inteligente
 
 ---
 
