@@ -1,7 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Segurança Feminina
+**Turma:** 3A
 
 ---
 
@@ -11,9 +10,14 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Nicolle | - Banco de dados - Integração do banco de dados com o site  - Arduíno para o chaveiro |
+| Maria Eduarda | - Relatório do início: fazer tudo  |
+
+Backlog:
+- Banco de dados
+- Integração do banco de dados com o site
+- Relatório do início
+- Arduíno para o chaveiro
 
 ### Verificação em 08/08
 
