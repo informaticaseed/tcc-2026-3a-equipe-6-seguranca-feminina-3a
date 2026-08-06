@@ -23,10 +23,10 @@ Backlog:
 
 | Integrante | Cumpriu? | Evidência (commit/Issue/PR) | Observação |
 |-----------|----------|----------------------------|------------|
-| (Nicolle) | ✅ / ⚠️ / ❌ | | |
-| (Maria Eduarda)| ✅ / ⚠️ / ❌ | | |
+| (Nicolle) | ✅ / ✅ / ❌ | | |
+| (Maria Eduarda)| ✅ / ✅ / ❌ | | |
 
-**Nota da quinzena:** _____ / 4,0
+**Nota da quinzena:** 4,0 / 4,0
 **Observações gerais:**
 
 ---
@@ -39,7 +39,6 @@ Backlog:
 |-----------|------------------------------|
 | (nome 1) | |
 | (nome 2) | |
-| (nome 3) | |
 
 ### Verificação em 22/08
 
@@ -47,7 +46,6 @@ Backlog:
 |-----------|----------|----------------------------|------------|
 | (nome 1) | ✅ / ⚠️ / ❌ | | |
 | (nome 2) | ✅ / ⚠️ / ❌ | | |
-| (nome 3) | ✅ / ⚠️ / ❌ | | |
 
 **Nota da quinzena:** _____ / 4,0
 **Observações gerais:**
@@ -62,7 +60,7 @@ Backlog:
 |-----------|------------------------------|
 | (nome 1) | |
 | (nome 2) | |
-| (nome 3) | |
+
 
 ### Verificação em 05/09
 
@@ -70,7 +68,6 @@ Backlog:
 |-----------|----------|----------------------------|------------|
 | (nome 1) | ✅ / ⚠️ / ❌ | | |
 | (nome 2) | ✅ / ⚠️ / ❌ | | |
-| (nome 3) | ✅ / ⚠️ / ❌ | | |
 
 **Nota da quinzena:** _____ / 4,0
 **Observações gerais:**
