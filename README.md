@@ -9,7 +9,7 @@
 |--------------|--------|-------|
 | (Nicolle) | @nicolletrindade563 | 3A |
 | (Maria) | @xMariaEduardax | 3A |
-| (Rudá) | @username | 3A |
+
 
 **Tema:** Plataforma de segurança feminina para envio rápido de alertas de emergência e compartilhamento de informações em situações de risco.
 **Tecnologia:** Python + Flask + SQLite
