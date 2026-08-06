@@ -23,9 +23,8 @@ Backlog:
 
 | Integrante | Cumpriu? | Evidência (commit/Issue/PR) | Observação |
 |-----------|----------|----------------------------|------------|
-| (nome 1) | ✅ / ⚠️ / ❌ | | |
-| (nome 2) | ✅ / ⚠️ / ❌ | | |
-| (nome 3) | ✅ / ⚠️ / ❌ | | |
+| (Nicolle) | ✅ / ⚠️ / ❌ | | |
+| (Maria Eduarda)| ✅ / ⚠️ / ❌ | | |
 
 **Nota da quinzena:** _____ / 4,0
 **Observações gerais:**
