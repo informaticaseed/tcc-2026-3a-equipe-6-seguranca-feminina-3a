@@ -14,9 +14,6 @@
 | Maria Eduarda | - Relatório do início: fazer tudo  |
 
 Backlog:
-- Banco de dados
-- Integração do banco de dados com o site
-- Relatório do início
 - Arduíno para o chaveiro
 
 ### Verificação em 08/08
@@ -33,12 +30,12 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 13/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
+| Nicolle | - Melhorar a latitude e longitude; - Adicionar discador; -  - Arduíno para o chaveiro  |
+| Maria Eduarda | - Implantação da parte física; - Faltam 3 capítulos  |
 
 ### Verificação em 22/08
 
