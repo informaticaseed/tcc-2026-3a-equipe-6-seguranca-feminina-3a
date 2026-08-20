@@ -17,11 +17,11 @@ O VivaSafe é uma plataforma voltada para a segurança feminina. O MVP tem como 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
 | 1 | (Cadastro e login de usuárias) | Alta | ✅ Feito |
-| 2 | (Botão de emergência para envio de alerta) | Alta | ⏳ A fazer |
+| 2 | (Botão de emergência para envio de alerta) | Alta | ✅ Feito |
 | 3 | (Compartilhamento de localização em situação de risco) | Alta | ⏳ A fazer |
 | 4 | (Página "Conheça o Projeto" com informações sobre o VivaSafe) | Média |✅ Feito |
-| 5 | (Integração com banco de dados para armazenar informações das usuárias) | Média | 🔄 Fazendo |
-| 6 | (Protótipo do chaveiro inteligente integrado ao sistema) | Baixa | ⏳ A fazer |
+| 5 | (Integração com banco de dados para armazenar informações das usuárias) | Média | ✅ Feito |
+| 6 | (Protótipo do chaveiro inteligente integrado ao sistema) | Baixa | ⏳ Fazendo |
 
 > Atualize o Status conforme avança: ⏳ A fazer → 🔄 Fazendo → ✅ Feito
 
