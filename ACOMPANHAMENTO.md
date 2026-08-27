@@ -51,12 +51,12 @@ Backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 27/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
+| Nicolle | - Melhorar a latitude e longitude; - Adicionar discador; -  - Arduíno para o chaveiro  |
+| Maria Eduarda | - Implantação da parte física; - Faltam 3 capítulos  |
 
 
 ### Verificação em 05/09
