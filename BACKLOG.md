@@ -12,7 +12,7 @@ O VivaSafe é uma plataforma voltada para a segurança feminina. O MVP tem como 
 
 ---
 
-## ✅ Funcionalidades do MVP
+## ✅ Funcionalidades do MVP 
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
