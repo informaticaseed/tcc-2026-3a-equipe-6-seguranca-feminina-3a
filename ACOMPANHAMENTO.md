@@ -73,13 +73,12 @@ Backlog:
 
 ## Quinzena 4 — 07/09 a 19/09
 
-### Compromissos assumidos em 07/09
+### Compromissos assumidos em 10/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Nicolle | - Adicionar discador; - Acesso somente para a equipe  o  |
+| Maria Eduarda | Finalizar o relatório   |
 
 ### Verificação em 19/09
 
